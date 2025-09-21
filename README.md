@@ -14,7 +14,7 @@ Live Demo
 
 🔗 Live Website: https://john36-collab.github.io/foodsupplychain_optimazation/
 
-GitHub Repository
+GitHub Repository: https://github.com/John36-collab/foodsupplychain_optimazation.git
 
 🔗 Source Code: 
 
